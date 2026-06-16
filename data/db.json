@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "agreementPanelMessageId": "1516548179829457019",
+    "servicePanelMessageId": null,
+    "checklistsMessageId": null,
+    "safetyMessageId": null,
+    "jobBoardDashboardMessageId": "1516548068084813956",
+    "moneyDashboardMessageId": "1516548069712461854",
+    "hoursAnnouncementsEnabled": true,
+    "lastOpenDate": null,
+    "lastCloseDate": null
+  },
+  "requests": [],
+  "schedules": [],
+  "transactions": [],
+  "agreementTokens": [],
+  "agreements": []
+}
