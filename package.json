@@ -1,0 +1,19 @@
+{
+  "name": "freshstart-co-discord-bot",
+  "version": "1.1.0",
+  "description": "FreshStart Co. service request, scheduling, money tracker, and staff operations bot.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pdfkit": "^0.15.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

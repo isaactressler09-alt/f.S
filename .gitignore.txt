@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+.DS_Store
+
+# signed/private client files
+signed-agreements/
+signatures/
+data/
